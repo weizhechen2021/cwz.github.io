@@ -4,4 +4,9 @@ theme:
 site_url: http://example.com
 nav:
     -Home: index.md
+    -Bioinformatics Learning:
+        -Git: docs/Gitlearning.md
+        -Linux: docs/Linuxlearning.md
+        -Vim: docs/Vimlearning.md
     -About: about.md
+    -小傻瓜如何学习使用电脑: docs/shagua.md
