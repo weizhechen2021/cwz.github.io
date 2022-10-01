@@ -4,10 +4,13 @@ Nice to meet u
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## What I am learning now?
-- Bioinfomatics
-- Biology
+- Bioinfomatics **chalenging**
+- Genetics
 - Molecular Biology
 - Gene drive
+- 
+
+
 
 ## Hi friend, this is mkdocs, a good tool to use markdown 
 * `mkdocs new [dir-name]` - Create a new project.
